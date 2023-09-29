@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/verse-site/static/css/main.51dfb782.css",
+    "main.js": "/verse-site/static/js/main.36417702.js",
+    "static/js/787.8b3b1b51.chunk.js": "/verse-site/static/js/787.8b3b1b51.chunk.js",
+    "static/media/verse-place.png": "/verse-site/static/media/verse-place.53ea06858e669377661c.png",
+    "static/media/map.png": "/verse-site/static/media/map.e21e26eb2bdd7cf2a034.png",
+    "static/media/books.png": "/verse-site/static/media/books.e9777661d42ce3f5a851.png",
+    "static/media/pens.png": "/verse-site/static/media/pens.34538c3f3e25570b6d7d.png",
+    "static/media/computer.png": "/verse-site/static/media/computer.82f7b7b1dc79d20fa2d7.png",
+    "static/media/chair.png": "/verse-site/static/media/chair.b7b57ce5686da0fde085.png",
+    "static/media/logo-preto.png": "/verse-site/static/media/logo-preto.b7de40cb0fdbadb4ec38.png",
+    "static/media/logo-cor.svg": "/verse-site/static/media/logo-cor.805f5be0375aebed24f10271ed36e95b.svg",
+    "index.html": "/verse-site/index.html",
+    "main.51dfb782.css.map": "/verse-site/static/css/main.51dfb782.css.map",
+    "main.36417702.js.map": "/verse-site/static/js/main.36417702.js.map",
+    "787.8b3b1b51.chunk.js.map": "/verse-site/static/js/787.8b3b1b51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51dfb782.css",
+    "static/js/main.36417702.js"
+  ]
+}
