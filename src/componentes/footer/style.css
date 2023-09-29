@@ -1,0 +1,28 @@
+.footer {
+    display: flex;
+    width: 100vw;
+    padding: 32px 64px;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--primria-400, #040039);
+    box-sizing: border-box;
+    color: var(--secundria-0, #FFF5D6);
+
+
+}
+
+.social {
+    display: flex;
+    padding: 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.social img {
+    width: 60px;
+}
+
+a img {
+    width: 100px;
+}

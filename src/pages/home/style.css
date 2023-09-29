@@ -1,0 +1,32 @@
+.capa {
+    width: 100vw;
+    height: 88vh;
+    background-image: url("../../images/verse-place.png");
+    background-size: 74vw;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.capa-texto {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    align-items: end;
+    margin-top: 300px;
+}
+
+.capa-texto h1 {
+   
+    /* titulos/h1 */
+    font-size: 126px;
+    font-weight: 700;
+    line-height: 80%;
+    /* 150% */
+    letter-spacing: -1.5px;
+}
+
+.capa-texto h1, p {
+    text-shadow: 4px 3px 10px #000;
+    margin: 0;
+    text-align: right;
+}

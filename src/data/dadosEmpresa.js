@@ -1,0 +1,10 @@
+import images from "../images/images"
+
+
+export const dadosHome = [{nomeEmpresa:"Versado", image:images.pens, resumo:" Versado é o selo da Verse dedicado a todos os amantes da leitura e da busca pelo conhecimento. Nossa livraria é um refúgio para mentes curiosas, onde oferecemos uma seleção cuidadosa de obras ricas e inspiradoras. Aqui, você encontrará livros que desafiam, emocionam e transformam, desde best-sellers até pérolas literárias desconhecidas. Nossa missão é inspirar a busca pelo saber e proporcionar uma experiência única de descoberta literária."}, {nomeEmpresa:"Mover.se", image:images.chair, resumo:"Mover.se é o selo de móveis e decoração da Verse. Nosso objetivo é transformar espaços em ambientes versáteis e funcionais, agregando estilo e praticidade à vida de nossos clientes. Com uma seleção de móveis modernos e inovadores, oferecemos soluções de design que se adaptam ao seu estilo de vida. Seja em casa ou no escritório, Mover.se está aqui para criar espaços que inspiram."}, {nomeEmpresa:"Versimo", image:images.books, resumo:"Versímo é o selo da Verse dedicado a soluções criativas em papelaria. Nossa missão é tornar a vida mais colorida e organizada, oferecendo uma ampla gama de produtos que atendem a todas as ocasiões. Desde material de escrita premium até itens de papelaria exclusivos, estamos aqui para inspirar sua criatividade e facilitar o seu dia a dia. Seja no escritório ou no aprendizado, Versímo é o seu parceiro confiável."}, {nomeEmpresa:"Verse.tech", image:images.computer, resumo:"Verse.tech é a vertente tecnológica da Verse, onde trazemos inovações modernas para a vida cotidiana. Mantemos todos conectados e atualizados com produtos e soluções tecnológicas de ponta. Desde gadgets inteligentes até acessórios de última geração, nossa missão é simplificar a vida das pessoas e torná-la mais eficiente e emocionante. Com Verse.tech, o futuro está nas suas mãos."}]
+
+export const dadosGrupo = [{}, {}, {}, {}]
+
+export const dadosSobre = [{}, {}, {}, {}]
+
+export const textosGerais = {}
